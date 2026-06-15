@@ -1,0 +1,6 @@
+{
+     "appId": "com.salem.hijricalendar",
+     "appName": "التقويم الهجري",
+     "webDir": "www",
+     "android": { "allowMixedContent": true }
+   }
